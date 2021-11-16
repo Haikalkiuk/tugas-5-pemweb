@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+
+.top {
+    height: 100px;
+    width: 900px;
+    margin: auto;
+}
+
+.atas {
+    height: 50px;
+    width: 800px;
+    float: left;
+    margin: 20px;
+}
+.yellow {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(247, 247, 94);
+
+}
+
+.orange {
+    width: 670px;
+    height: 50px;
+    background-color: rgb(255, 145, 0);
+    float: left;
+}
+
+.row {
+    width: 900px;
+    height: 550px;
+    margin: auto;
+}
+
+.colum {
+    width: 800px;
+    height: 500px;
+    margin: 20px;
+    float: left;
+}
+
+.green {
+    width: 150px;
+    height: 500px;
+    background-color: rgb(125, 252, 125);
+}
+
+.abu {
+    width: 450px;
+    height: 500px;
+    background-color: #a3a3a3;
+    float: left;
+}
+
+.blue {
+    width: 150px;
+    height: 500;
+    background-color: rgb(81, 218, 252);
+    float: right;
+}
+
+.bawah {
+    width: 860px;
+    height: 50px;
+    background-color: rgb(25, 65, 241);
+    margin: auto;
+}
+
